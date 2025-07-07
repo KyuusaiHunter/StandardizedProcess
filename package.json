@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.kyuusaihunter.standardizedprocess",
+  "displayName": "Standardized Process",
+  "version": "2.5.3",
+  "unity": "2021.3",
+  "description": "",
+  "keywords": [
+    "virtual"
+  ],
+  "unityRelease": "39f1c1"
+}
